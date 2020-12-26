@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="97304" started-at="2020-12-25T23:24:13 EST" finished-at="2020-12-25T23:25:51 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="97304" started-at="2020-12-25T23:24:13 EST" finished-at="2020-12-25T23:25:51 EST">
+      <class name="com.amazon.testpages.BestSellerPageTest">
+        <test-method status="PASS" signature="getBrowser()[pri:0, instance:com.amazon.testpages.BestSellerPageTest@51931956]" name="getBrowser" is-config="true" duration-ms="28226" started-at="2020-12-25T23:24:13 EST" finished-at="2020-12-25T23:24:42 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBrowser -->
+        <test-method status="PASS" signature="logoTest()[pri:0, instance:com.amazon.testpages.BestSellerPageTest@51931956]" name="logoTest" duration-ms="159" started-at="2020-12-25T23:25:48 EST" finished-at="2020-12-25T23:25:48 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazon.testpages.BestSellerPageTest@51931956]" name="tearDown" is-config="true" duration-ms="2672" started-at="2020-12-25T23:25:48 EST" finished-at="2020-12-25T23:25:51 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazon.testpages.BestSellerPageTest -->
+      <class name="com.amazon.testpages.HomePageTest">
+        <test-method status="PASS" signature="getBrowser()[pri:0, instance:com.amazon.testpages.HomePageTest@176d53b2]" name="getBrowser" is-config="true" duration-ms="18950" started-at="2020-12-25T23:24:59 EST" finished-at="2020-12-25T23:25:17 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBrowser -->
+        <test-method status="PASS" signature="logoTest()[pri:2, instance:com.amazon.testpages.HomePageTest@176d53b2]" name="logoTest" duration-ms="520" started-at="2020-12-25T23:25:18 EST" finished-at="2020-12-25T23:25:18 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoTest -->
+        <test-method status="PASS" signature="clickOnGiftCardsTest()[pri:3, instance:com.amazon.testpages.HomePageTest@176d53b2]" name="clickOnGiftCardsTest" duration-ms="5020" started-at="2020-12-25T23:25:18 EST" finished-at="2020-12-25T23:25:23 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnGiftCardsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazon.testpages.HomePageTest@176d53b2]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-12-25T23:25:51 EST" finished-at="2020-12-25T23:25:51 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazon.testpages.HomePageTest -->
+      <class name="com.amazon.testpages.GiftCardsPageTest">
+        <test-method status="PASS" signature="getBrowser()[pri:0, instance:com.amazon.testpages.GiftCardsPageTest@971d0d8]" name="getBrowser" is-config="true" duration-ms="16929" started-at="2020-12-25T23:24:42 EST" finished-at="2020-12-25T23:24:59 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBrowser -->
+        <test-method status="PASS" signature="textTest()[pri:1, instance:com.amazon.testpages.GiftCardsPageTest@971d0d8]" name="textTest" duration-ms="210" started-at="2020-12-25T23:25:23 EST" finished-at="2020-12-25T23:25:24 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textTest -->
+        <test-method status="PASS" signature="checkBoxCheck()[pri:2, instance:com.amazon.testpages.GiftCardsPageTest@971d0d8]" name="checkBoxCheck" duration-ms="24230" started-at="2020-12-25T23:25:24 EST" finished-at="2020-12-25T23:25:48 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxCheck -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazon.testpages.GiftCardsPageTest@971d0d8]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-12-25T23:25:51 EST" finished-at="2020-12-25T23:25:51 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazon.testpages.GiftCardsPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
